@@ -1,0 +1,11 @@
+[submodule "hrrepozik"]
+	path = hrrepozik
+	url = <https://github.com/keha228ivan-stack/hrrepozik>
+
+[submodule "hrrepozik-modile-2"]
+	path = hrrepozik-modile-2
+	url = <https://github.com/keha228ivan-stack/hrrepozik-modile-2>
+
+[submodule "repozik-desktop2"]
+	path = repozik-desktop2
+	url = <https://github.com/keha228ivan-stack/repozik-desktop2>
